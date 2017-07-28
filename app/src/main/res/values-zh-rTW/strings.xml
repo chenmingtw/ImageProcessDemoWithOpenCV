@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenCV Demo</string>
+
+    <string name="btn_reset">重置</string>
+    <string name="btn_binarization">二值化</string>
+    <string name="btn_gaussian_blur">高斯模糊</string>
+    <string name="btn_test_filter">Sobel 邊緣偵測</string>
+
+    <string name="dlg_processing_title">處理中</string>
+    <string name="dlg_processing_message">請稍後......</string>
+
+    <string name="toast_reset">重置完成！</string>
+    <string name="toast_process_ok">處理完成！</string>
+    <string name="toast_process_fail">處理失敗......</string>
+</resources>

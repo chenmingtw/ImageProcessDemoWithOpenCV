@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OpenCV Demo</string>
+
+    <string name="btn_reset">Reset</string>
+    <string name="btn_binarization">Binarization</string>
+    <string name="btn_gaussian_blur">Gaussian Blur</string>
+    <string name="btn_test_filter">Sobel Edge Detection</string>
+
+    <string name="dlg_processing_title">Processing</string>
+    <string name="dlg_processing_message">Please wait a moment...</string>
+
+    <string name="toast_reset">Reset Finished!</string>
+    <string name="toast_process_ok">Process Finished!</string>
+    <string name="toast_process_fail">Process Failed...</string>
+</resources>
